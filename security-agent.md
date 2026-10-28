@@ -1,5 +1,6 @@
-# This agent was develop for Claude 
-# to install it on your envirionment add it to /.claude/agents/security-agent.md
+> [!NOTE]
+> This agent was develop for Claude
+> to install it on your envirionment add it to /.claude/agents/security-agent.md
 
 # Security — Security Engineer
 
